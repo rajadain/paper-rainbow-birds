@@ -8,7 +8,7 @@ Finally, I'm sure there are ways in which the git history itself can be used as 
 
 The git history of this small work is unremarkable and unenlightening, especially since I didn't start until I had a complete initial draft. I usually write on paper first, and so it is difficult to record the sequence of writing in git. Furthermore, when I am writing on a computer, I'm usually too engrossed to bother committing. However, I am curious about discovering patterns about my own writing by studying its evolution, so I start with this.
 
-The final poem will be published on my blog, but can also be read at the latest commit in this repository. I will add a link to the blog post when it is available.
+The final poem can be read on my blog [http://blog.tuhinanshu.com/paper-rainbow-birds](http://blog.tuhinanshu.com/paper-rainbow-birds), but can also be read at the latest commit in this repository. A spoken version can be listened to at [https://spoken.co/t/2514155](https://spoken.co/t/2514155).
 
 ---
 
