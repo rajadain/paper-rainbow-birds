@@ -105,4 +105,4 @@ and cold December sunrise,
 the other’s misty moon sets upon  
 their own personal night skies.
 
--- Terence Tuhinanshu, November 2015.
+~ Terence Tuhinanshu, November 2015.
